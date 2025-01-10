@@ -1,4 +1,4 @@
-# [Imię i Nazwisko]
+#  Piotr Straszak
 
 ## O mnie
 Jestem studentem **Akademii Górniczo-Hutniczej** w Krakowie na kierunku **Cyberbezpieczeństwo**. Fascynuje mnie rozwój technologii, bezpieczeństwo sieci oraz ochrona danych. W wolnym czasie uczę się nowych technologii i pracuję nad projektami związanymi z cyberbezpieczeństwem.
